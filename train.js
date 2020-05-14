@@ -2,7 +2,6 @@ import GenerateData from './GenerateData';
 import * as tf from "@tensorflow/tfjs";
 
 
-
 let data;
 async function loadData() {
     data = new GenerateData();
