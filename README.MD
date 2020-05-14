@@ -26,7 +26,6 @@ We will train a CNN at Browser with 2 hidden layers
 ### Installation and Run
 
 ```sh
-$ cd ./
 $ yarn
 $ yarn dev
 ```
